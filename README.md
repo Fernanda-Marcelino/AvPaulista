@@ -75,10 +75,12 @@ Usamos esse código para mudar uma cena, ele foi anexado a um botão que, quando
 
 Este código é responsável por fazer reaparecer o scroll do mouse na tela.
 
-## Vídeo em funcionamento
+## Vídeos em funcionamento
 
-# Vídeo perdendo
+## Perdendo
 https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/3357c8ae-7be1-4add-8a52-9cc8e3bf80f4
+
+## Ganhando
 
 
 
