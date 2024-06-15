@@ -27,7 +27,7 @@ Este código faz com que o carro se mova no eixo Z (para frente), e o destrói q
 
 
 ## Policial
-![! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700a14d188f-3f2b-4056-997d-](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/40810452-1450-4925-b76a-75450a76d26a)
+![! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700a14d188f-3f2b-4056-997d- (1)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/8b464879-5b15-4358-b95f-861218952325)
 
 Esse código faz com que o policial siga o personagem usando o sistema de navegação NavMeshAgent.
 
