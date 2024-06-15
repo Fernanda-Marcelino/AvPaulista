@@ -19,19 +19,17 @@ O policial será uma aranha-fio-de-ouro (um dos animais propostos para o projeto
 Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira pessoa para mostrar os animais. O personagem dessa fase será o Saruê e ele terá uma lata de tinta na mão para poder fazer os grafites nos prédios. Ele possui um script simples para movimentação e rotação.
 
 ## Códigos
-![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/096f7b2b-f795-4f22-bdcf-1ade536a90a1)
 
+## Movimento do carro
+![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/096f7b2b-f795-4f22-bdcf-1ade536a90a1)
 Este código faz com que o carro se mova no eixo Z (para frente), e o destrói quando ele se move para além de uma certa posição do eixo X, que é aonde acaba a cena.
 
-
+## Policial
 ![! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700a14d188f-3f2b-4056-997d-](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/40810452-1450-4925-b76a-75450a76d26a)
-
-
 Esse código faz com que o policial siga o personagem usando o sistema de navegação NavMeshAgent.
 
-
+## Personagem
 ![Design sem nome](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/7c3087c0-9479-44e6-8de1-c2accdcc0769)
-
 O código acima controla o personagem e támbem utiliza algumas interações, como a detecção de colisões com os carros e a possibilidade de ser preso pelo policial.
 
 
