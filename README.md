@@ -12,7 +12,7 @@ Nessa fase o personagem terá como objetivo fazer grafites nos prédios da Aveni
 ## Construção do cenário
 ![WhatsApp Image 2024-06-15 at 14 24 03](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/60c377be-c659-46df-8e83-624fd4bd23c3)
 
-Para o cenário desta fase utilizamos alguns assets da Store e Prefabs, como os prédios, calçadas, a rua e os carros. O Masp foi modelado no Blender para ficar mais fiel ao da Avenida Paulista. Tambem utilizamos um Sky Box para o céu. Pintamos alguns planos para fazer a ciclovia central e planos menores para fazer as linhas amarelas da ciclovia.
+Para o cenário desta fase utilizamos alguns assets da Store e Prefabs, como os prédios, calçadas, postes, as ruas e os carros. O Masp foi modelado no Blender para ficar mais fiel ao da Avenida Paulista. Tambem utilizamos um Sky Box para o céu. Pintamos alguns planos para fazer a ciclovia central e planos menores para fazer as linhas amarelas da ciclovia.
 
 ## Cenas
 ![Design sem nome (4)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/89ff34bf-ca32-4d6c-9f95-815c09e89e84)
