@@ -33,13 +33,13 @@ Esse código faz com que o policial siga o personagem usando o sistema de navega
 
 
 ## Personagem
-![Design sem nome](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/7c3087c0-9479-44e6-8de1-c2accdcc0769)
+![Design sem nome (2)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/5dfe01d5-0e56-4115-844a-be1274067dd3)
 
 O código acima controla o personagem e támbem utiliza algumas interações, como a detecção de colisões com os carros e a possibilidade de ser preso pelo policial.
 
 
 ## Pichar
-![Design sem nome (1)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/bbcc801f-7c6c-414a-8d83-f8c6aa30e5a9)
+![Design sem nome (3)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/b7b36671-950f-44c3-9ff5-c2a8d393dd58)
 
 Este código permite que jogador realize pichações em prédios. Ele usa Raycasting para detectar onde o jogador está apontando na tela e se apontar para um prédio, permite que o jogador faça uma pichação. O número de pichações é contado e exibido na tela. Quando o jogador completa 15 pichações, a cena "telaGanhou" é carregada.
 
