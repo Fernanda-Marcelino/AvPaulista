@@ -20,12 +20,12 @@ Para o cenário desta fase utilizamos alguns assets da Store e Prefabs, como os 
 ## Policial
 ![WhatsApp Image 2024-06-15 at 14 24 42](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/c72b6811-43cf-418b-b87d-ca2ef3bc048f)
 
-O policial será uma aranha-fio-de-ouro (um dos animais propostos para o projeto). Usamos um som de algema quando o policial alcançar o personagem, para mostrar que ele foi preso. Para fazer com que o policial persiga o personagem utilizamos o NavMeshAgent
+O policial (cilindro vermelho) será uma aranha-fio-de-ouro (um dos animais propostos para o projeto). Usamos um som de algema quando o policial alcançar o personagem, para mostrar que ele foi preso. Para fazer com que o policial persiga o personagem utilizamos o NavMeshAgent
 
 ## Personagem
 ![WhatsApp Image 2024-06-15 at 14 25 07](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/7c50ca31-5e0d-472d-9169-d5b5e7c6a9ad)
 
-Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira pessoa para mostrar os animais. O personagem dessa fase será o Saruê e ele terá uma lata de tinta na mão para poder fazer os grafites nos prédios. Ele possui um script simples para movimentação e rotação.
+Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira pessoa para mostrar os animais. O personagem (cilindro verde) dessa fase será o Saruê e ele terá uma lata de tinta na mão para poder fazer os grafites nos prédios. Ele possui um script simples para movimentação e rotação.
 
 ## Códigos
 
