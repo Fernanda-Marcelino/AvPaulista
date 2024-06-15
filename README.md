@@ -24,8 +24,8 @@ Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira
 Este código faz com que o carro se mova no eixo Z (para frente), e o destrói quando ele se move para além de uma certa posição do eixo X, que é aonde acaba a cena.
 
 
-![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/a14d188f-3f2b-4056-997d-4da15eae1f8a)
-![! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700a14d188f-3f2b-4056-997d-](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/f33ec6c1-0785-40c3-8519-b18dfb2f6322)
+![! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700a14d188f-3f2b-4056-997d-](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/40810452-1450-4925-b76a-75450a76d26a)
+
 
 Esse código faz com que o policial siga o personagem usando o sistema de navegação NavMeshAgent.
 
