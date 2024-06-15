@@ -25,23 +25,37 @@ Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira
 
 Este código faz com que o carro se mova no eixo Z (para frente), e o destrói quando ele se move para além de uma certa posição do eixo X, que é aonde acaba a cena.
 
+
 ## Policial
 ![! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ! image (httpsgithub comFernanda-MarcelinoAvPaulistaassets128370700a14d188f-3f2b-4056-997d-](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/40810452-1450-4925-b76a-75450a76d26a)
 
 Esse código faz com que o policial siga o personagem usando o sistema de navegação NavMeshAgent.
+
 
 ## Personagem
 ![Design sem nome](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/7c3087c0-9479-44e6-8de1-c2accdcc0769)
 
 O código acima controla o personagem e támbem utiliza algumas interações, como a detecção de colisões com os carros e a possibilidade de ser preso pelo policial.
 
+
 ## Pichar
 ![Design sem nome (1)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/bbcc801f-7c6c-414a-8d83-f8c6aa30e5a9)
 
+Este código permite que jogador realize pichações em prédios. Ele usa Raycasting para detectar onde o jogador está apontando na tela e se apontar para um prédio, permite que o jogador faça uma pichação. O número de pichações é contado e exibido na tela. Quando o jogador completa 15 pichações, a cena "telaGanhou" é carregada. O código também gerencia um período de tempo em que o jogador possa fazer uma nova pichação.
 
 
+## Rotação da câmera
+
+![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/dc6704dd-52f8-47aa-8733-66f4123d81ec)
+
+O código controla a rotação da câmera verticalmente com base no movimento do mouse.
 
 
+## Spawnar carros
+
+![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/c993cb01-c875-44b9-a236-ee56524d8224)
+
+Esse código cria carros em pontos de spawn especificados repetidamente ao longo do tempo.
 
 
 
