@@ -21,9 +21,16 @@ Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira
 ## Códigos
 ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/096f7b2b-f795-4f22-bdcf-1ade536a90a1)
 
-Este código faz com que o carro se mova no eixo Z (para frente), e o destrói quando ele se move para além de uma certa posição do eixo X.
+Este código faz com que o carro se mova no eixo Z (para frente), e o destrói quando ele se move para além de uma certa posição do eixo X, que é aonde acaba a cena.
 
 ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/a14d188f-3f2b-4056-997d-4da15eae1f8a)
+
+Esse código faz com que o policial siga o personagem usando o sistema de navegação NavMeshAgent.
+
+![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/c1f3c358-9d39-4fca-8b64-d37594113b5d) ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/1a03e15e-4412-46ee-aacb-84b8d515e4b7)
+
+O código acima controla o personagem e támbem utiliza algumas interações, como a detecção de colisões com os carros e a possibilidade de ser preso pelo policial.
+
 
 
 
