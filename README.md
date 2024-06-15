@@ -1,4 +1,4 @@
-# AvPaulista
+# Avenida Paulista
 ## Dupla: Carlos Alarcon e Fernanda Viana
 Atividade do projeto de São Paulo, fase avenida Paulista.
 ## Link do projeto no Drive
