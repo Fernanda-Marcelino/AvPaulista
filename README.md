@@ -41,21 +41,31 @@ O código acima controla o personagem e támbem utiliza algumas interações, co
 ## Pichar
 ![Design sem nome (1)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/bbcc801f-7c6c-414a-8d83-f8c6aa30e5a9)
 
-Este código permite que jogador realize pichações em prédios. Ele usa Raycasting para detectar onde o jogador está apontando na tela e se apontar para um prédio, permite que o jogador faça uma pichação. O número de pichações é contado e exibido na tela. Quando o jogador completa 15 pichações, a cena "telaGanhou" é carregada. O código também gerencia um período de tempo em que o jogador possa fazer uma nova pichação.
+Este código permite que jogador realize pichações em prédios. Ele usa Raycasting para detectar onde o jogador está apontando na tela e se apontar para um prédio, permite que o jogador faça uma pichação. O número de pichações é contado e exibido na tela. Quando o jogador completa 15 pichações, a cena "telaGanhou" é carregada.
 
 
 ## Rotação da câmera
-
 ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/dc6704dd-52f8-47aa-8733-66f4123d81ec)
 
 O código controla a rotação da câmera verticalmente com base no movimento do mouse.
 
 
 ## Spawnar carros
-
 ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/c993cb01-c875-44b9-a236-ee56524d8224)
 
 Esse código cria carros em pontos de spawn especificados repetidamente ao longo do tempo.
+
+## Voltar fase
+![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/4409c057-873e-45cc-adcb-b80230467daa)
+
+Usamos esse código para mudar uma cena, ele foi anexado a um botão que, quando clicado, retorna o jogador a cena principal.
+
+
+## Voltar Scroll
+![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/ba521656-351c-4afa-93c8-0f083e1fd070)
+
+
+
 
 
 
