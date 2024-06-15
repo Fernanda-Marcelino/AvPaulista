@@ -64,7 +64,7 @@ Usamos esse código para mudar uma cena, ele foi anexado a um botão que, quando
 ## Voltar Scroll
 ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/ba521656-351c-4afa-93c8-0f083e1fd070)
 
-
+Este código é responsável por fazer reaparecer o scroll do mouse na tela.
 
 
 
