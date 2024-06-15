@@ -30,7 +30,7 @@ Este código faz com que o carro se mova no eixo Z (para frente), e o destrói q
 Esse código faz com que o policial siga o personagem usando o sistema de navegação NavMeshAgent.
 
 
-![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/c1f3c358-9d39-4fca-8b64-d37594113b5d) ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/1a03e15e-4412-46ee-aacb-84b8d515e4b7)
+![Design sem nome](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/7c3087c0-9479-44e6-8de1-c2accdcc0769)
 
 O código acima controla o personagem e támbem utiliza algumas interações, como a detecção de colisões com os carros e a possibilidade de ser preso pelo policial.
 
