@@ -35,6 +35,9 @@ Esse código faz com que o policial siga o personagem usando o sistema de navega
 
 O código acima controla o personagem e támbem utiliza algumas interações, como a detecção de colisões com os carros e a possibilidade de ser preso pelo policial.
 
+## Pichar
+![Design sem nome (1)](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/bbcc801f-7c6c-414a-8d83-f8c6aa30e5a9)
+
 
 
 
