@@ -20,6 +20,7 @@ Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira
 
 ## Códigos
 ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/096f7b2b-f795-4f22-bdcf-1ade536a90a1)
+
 Este código faz com que o carro se mova no eixo Z (para frente), e o destrói quando ele se move para além de uma certa posição do eixo X.
 
 ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/b8e9a2e9-c735-4c85-ba53-7f77d21df0e9) ![image](https://github.com/Fernanda-Marcelino/AvPaulista/assets/128370700/a14d188f-3f2b-4056-997d-4da15eae1f8a)
