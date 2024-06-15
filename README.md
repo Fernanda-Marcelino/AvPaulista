@@ -16,7 +16,7 @@ Nessa fase o personagem terá como objetivo fazer grafites nos prédios da Aveni
 Para o cenário desta fase utilizamos alguns assets da Store e Prefabs, como os prédios, calçadas, a rua e os carros. Tambem utilizamos um Sky Box para o céu. Pintamos alguns planos para fazer a ciclovia central e planos menores para fazer as linhas amarelas da ciclovia.
 
 ## Policial
-O policial será uma aranha-fio-de-ouro (um dos animais propostos para o projeto). "Explicar o código de perseguir o personagem!"
+O policial será uma aranha-fio-de-ouro (um dos animais propostos para o projeto). Usamos um som de algema quando o policial alcançar o personagem, para mostrar que ele foi preso. "Explicar o código de perseguir e prender o personagem!"
 
 ## Personagem
 Como os animais do projeto serão nossos personagens, fizemos o jogo em terceira pessoa para mostrar os animais. O personagem dessa fase será o Saruê e ele terá uma lata de tinta na mão para poder fazer os grafites nos prédios. Ele possui um script simples para movimentação e rotação.
